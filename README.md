@@ -6,3 +6,8 @@ I believe in doing all things to the best of my ability. I build my products to 
 
 I believe that products are built for users - not just to solve abstract technical problems. The most technically innovative code is worthless if the end-user experience is subpar.
 
+## Languages
+`JavaScript` `Python` `PHP` `SQL` `bash` `YML` `C#` `LINQ` `VB`
+
+## Frameworks
+`SvelteKit` `Angular` `React` `Astro` `Electron`
