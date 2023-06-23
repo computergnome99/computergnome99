@@ -11,6 +11,6 @@
 
 <br />
 
-> A dog barks when his master is attacked. I would be a coward if I saw that God's truth is attacked and yet would remain silent
+> A dog barks when his master is attacked. I would be a coward if I saw that God's truth is attacked and yet would remain silent. For if I am silent when God's truth is assailed, I shall be denying Him whom I profess to serve. As a faithful watchman, I must bark when I see the wolf coming to attack the flock.
 >
 > — John Calvin, The Institutes of the Christian Religion
